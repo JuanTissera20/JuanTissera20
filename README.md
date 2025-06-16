@@ -5,19 +5,19 @@
 ¡Hola y bienvenido a mi perfil de GitHub! Soy estudiante de la Licenciatura en Ciencias de la Computación, con un gran interés por resolver problemas y descubrir nuevas tecnologías. Me encuentro en pleno proceso de aprendizaje, trabajando especialmente en mejorar mis conocimientos sobre diseño y análisis de algoritmos. Aspiro a convertirme en un desarrollador integral y capacitado, preparado para afrontar desafíos en distintas ramas de la informática.
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 💻 Actualmente estoy trabajando con **Angular, JavaScript, Java, HTML, CSS, Bootstrap, MySQL y Postman.**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱  Me encuentro en constante aprendizaje, **integrando herramientas y tecnologías para construir aplicaciones web robustas y escalables.** 
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ Tengo un gran interés en el desarrollo backend y la arquitectura de sistemas, y estoy explorando cada vez más áreas dentro del ecosistema **full stack.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝  Próximamente empezaré a compartir artículos y recursos sobre lo que voy aprendiendo.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Si tenés dudas o querés hablar sobre Angular, Java, desarrollo web o bases de datos, no dudes en escribirme
+  
+- 📫 Podés contactarme a través de mi correo o redes: **Juant_lmc@hotmail.com**. ¡siempre estoy abierto a conectar con otros desarrolladores!
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 También podés encontrarme en Discord si querés charlar: [juan_tissera] **👋**  –  https://discord.com/users/juan_tissera mi usuario de discord!
 <!--Intro end-->
 
  <!--tech stack icons-->
