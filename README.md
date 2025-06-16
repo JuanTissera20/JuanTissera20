@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Hola! Soy Juan Cruz Tissera! 👁️</h1>
 
 ## Introduction
 
@@ -23,7 +23,7 @@
  <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mysql,nodejs,postman,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,java,js,mysql,nodejs,postman,tailwind,ts,vscode" />
   </a>
 </p>
 
